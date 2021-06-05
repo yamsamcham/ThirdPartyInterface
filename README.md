@@ -1,0 +1,2 @@
+# ThirdPartyInterface
+interface
